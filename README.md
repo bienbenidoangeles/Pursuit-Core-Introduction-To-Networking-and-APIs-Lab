@@ -7,12 +7,12 @@ Status Code Scavenger Hunt!
 Use Postman to find each of the following HTTP codes:
 
 
-1. 200
-1. 301
+1. 200 - google.com
+1. 301 - 
 1. 400
 1. 401
 1. 403
-1. 404
+1. 404 - http://www.example.org/index.asp
 1. 418
 1. 500
 
